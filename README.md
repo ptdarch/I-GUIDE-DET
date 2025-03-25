@@ -22,4 +22,4 @@ A glossary defining key terms is available, along with concise primers on the fo
 LICENSING AND ATTRIBUTION
 All four tools, as well as the primers and glossary, are licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).
 More information: https://creativecommons.org/licenses/by-sa/4.0/
-![image](https://github.com/user-attachments/assets/9dbfdbd1-9e89-4b98-bd12-3559b263d6a1)
+
