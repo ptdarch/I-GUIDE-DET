@@ -1,25 +1,44 @@
 # I-GUIDE-DET
-The I-GUIDE Data Ethics Toolkit (I-DET) comprises four tools, developed to support reproducible and ethical geospatial data science. They are practical and lightweight, providing a structured way to document key actions and ensure alignment with open science expectations, and funder and legal requirements. All four tools work together, and each serves a distinct purpose:
+The I-GUIDE Data Ethics Toolkit (I-DET) v2 is a suite of practical, lightweight tools designed to support reproducible and ethical geospatial data science. Version 2 is streamlined and risk-proportionate: it reduces unnecessary fields and guidance text, focuses on information needed for ethical use/reuse and standards compliance, and offers different documentation “levels” aligned to low/medium/high risk and intended real-world impact. For projects used only for education or exploratory research (with no intent to publish, share, or support decisions), the documentation tools may not be required.
 
-1.	I-GUIDE RESEARCH PRODUCT MANAGEMENT PLAN (RPMP)
-The RPMP helps researchers plan how to reach target audiences. It also helps in planning acquisition, production, and management of datasets and models. RPMP helps researchers keep track of which datasets and models are used to support different publications. It supports reproducibility and compliance with funding agencies’ data sharing and open science policies. 
+All the tools work together, and each serves a distinct purpose:
 
-2.	I-GUIDE MANAGING ETHICAL GEOSPATIAL AI AND DATA SCIENCE (MEGAID) TOOL
-The MEG-AID tool is a project management tool designed to foster integration of ethical considerations into geospatial data science projects. By documenting actions at each stage of a project’s lifecycle, the tool promotes reproducibility and ethical practice. This toolkit should be used at the start of a project to anticipate ethical issues, and to plan how to address these issues. 
+I-GUIDE Research Product Management Plan (RPMP) v2
 
-3.	I-GUIDE DATA CARDS
-Adapted from Google’s Data Playcards (CC BY-SA 4.0), the I-GUIDE Data Cards have been simplified and tailored to geospatial research. They document the datasets used, and actions taken to address key ethical issues. 
+The RPMP helps research teams plan and manage their project outputs across the full lifecycle. It supports planning for target audiences and impact, and provides a structured way to track the acquisition, creation, storage, versioning, sharing, and long-term management of datasets and models. It also helps link specific datasets and models to particular publications or other outputs, supporting reproducibility and compliance with funder, journal, institutional, and legal requirements.
 
-4.	I-GUIDE MODEL CARDS
-I-GUIDE Model Cards are an adaptation of the I-GUIDE Data Cards, structured to support model documentation. They capture information about a model’s architecture, purpose, data, validation, ethical issues, and interpretability. Each model used in a project should have a Model Card.
+I-GUIDE Managing Ethical Geospatial AI and Data Science (MEG-AID) v2
 
-A glossary defining key terms is available, along with concise primers on the following topics:
--	EU AI Act;
--	EU General Data Protection Regulation;
--	Fair Inclusion in Geospatial Data Science;
--	Informed Consent in Geospatial Science.
+MEG-AID is a project management tool designed to integrate ethical, legal, and reproducibility considerations into day-to-day project work. It is organized around key lifecycle stages, prompting teams to anticipate issues early, document actions and responsibilities, and revisit decisions as the project evolves. MEG-AID is most useful when used from the start of a project and updated throughout.
 
-LICENSING AND ATTRIBUTION
-All four tools, as well as the primers and glossary, are licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).
-More information: https://creativecommons.org/licenses/by-sa/4.0/
+I-GUIDE Data Cards v2
 
+The I-GUIDE Data Cards document each dataset created or used in a project, including relevant provenance, characteristics, and ethical considerations (such as sensitivity, consent, representativeness, and suitable/unsuitable uses). In v2, there are three Data Card templates, chosen based on the risk and context of use:
+
+Data Card Essentials: a minimal record for low/zero-risk datasets from strongly curated sources with strong existing documentation.
+
+Data Card Core: the default option for most research datasets where fuller documentation is needed for reproducibility and responsible reuse.
+
+Data Card Complete: for higher-stakes contexts, especially when the research is intended to influence policy- or decision-makers.
+
+I-GUIDE Model Cards v2
+
+The I-GUIDE Model Cards document each model created or used in a project, including the model’s purpose, structure, inputs and training data, evaluation, interpretability/explainability, ethical considerations, and appropriate use. In v2, there are three Model Card templates, chosen analogously to the Data Cards:
+
+Model Card Essentials: a minimal record for low/zero-risk models used “as-is” with strong existing documentation, or for simple, transparent models in low-stakes settings.
+
+Model Card Core: the default option for most research models, especially where models are trained, adapted, coupled, or intended for reuse.
+
+Model Card Complete: for higher-stakes contexts, especially when model outputs may influence policy- or decision-makers or support consequential decisions.
+
+Glossary and primers
+
+A glossary defining key terms is provided, alongside concise primers on:
+- EU AI Act
+- EU General Data Protection Regulation (GDPR)
+- Fair Inclusion in Geospatial Data Science
+- Informed Consent in Geospatial Science
+
+Licensing and attribution
+
+All four tools, as well as the primers and glossary, are licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0). More information: https://creativecommons.org/licenses/by-sa/4.0/
