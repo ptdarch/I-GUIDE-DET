@@ -1,20 +1,18 @@
-* {
-    font-family: "Aptos";
-}
+I-GUIDE Data Ethics Toolkit v2.0
 
-The I-GUIDE Data Ethics Toolkit (I-DET) v2 is a suite of practical, lightweight tools designed to support reproducible and ethical geospatial data science. Version 2 is streamlined and risk-proportionate: it reduces unnecessary fields and guidance text, focuses on information needed for ethical use/reuse and standards compliance, and offers different documentation “levels” aligned to low/medium/high risk and intended real-world impact. For projects used only for education or exploratory research (with no intent to publish, share, or support decisions), the documentation tools may not be required.
+The I-GUIDE Data Ethics Toolkit (I-DET) v2.0 is a suite of practical, lightweight tools designed to support reproducible and ethical geospatial data science. Version 2 is streamlined and risk-proportionate: it reduces unnecessary fields and guidance text, focuses on information needed for ethical use/reuse and standards compliance, and offers different documentation “levels” aligned to low/medium/high risk and intended real-world impact. For projects used only for education or exploratory research (with no intent to publish, share, or support decisions), the documentation tools may not be required.
 
 All the tools work together, and each serves a distinct purpose:
 
-I-GUIDE Research Product Management Plan (RPMP) v2
+I-GUIDE Research Product Management Plan (RPMP) v2.0
 
 The RPMP helps research teams plan and manage their project outputs across the full lifecycle. It supports planning for target audiences and impact, and provides a structured way to track the acquisition, creation, storage, versioning, sharing, and long-term management of datasets and models. It also helps link specific datasets and models to particular publications or other outputs, supporting reproducibility and compliance with funder, journal, institutional, and legal requirements.
 
-I-GUIDE Managing Ethical Geospatial AI and Data Science (MEG-AID) v2
+I-GUIDE Managing Ethical Geospatial AI and Data Science (MEG-AID) v2.0
 
 MEG-AID is a project management tool designed to integrate ethical, legal, and reproducibility considerations into day-to-day project work. It is organized around key lifecycle stages, prompting teams to anticipate issues early, document actions and responsibilities, and revisit decisions as the project evolves. MEG-AID is most useful when used from the start of a project and updated throughout.
 
-I-GUIDE Data Cards v2
+I-GUIDE Data Cards v2.0
 
 The I-GUIDE Data Cards document each dataset created or used in a project, including relevant provenance, characteristics, and ethical considerations (such as sensitivity, consent, representativeness, and suitable/unsuitable uses). In v2, there are three Data Card templates, chosen based on the risk and context of use:
 
@@ -24,7 +22,7 @@ Data Card Core: the default option for most research datasets where fuller docum
 
 Data Card Complete: for higher-stakes contexts, especially when the research is intended to influence policy- or decision-makers.
 
-I-GUIDE Model Cards v2
+I-GUIDE Model Cards v2.0
 
 The I-GUIDE Model Cards document each model created or used in a project, including the model’s purpose, structure, inputs and training data, evaluation, interpretability/explainability, ethical considerations, and appropriate use. In v2, there are three Model Card templates, chosen analogously to the Data Cards:
 
