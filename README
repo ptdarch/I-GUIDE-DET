@@ -1,4 +1,7 @@
-# I-GUIDE-DET
+* {
+    font-family: "Aptos";
+}
+
 The I-GUIDE Data Ethics Toolkit (I-DET) v2 is a suite of practical, lightweight tools designed to support reproducible and ethical geospatial data science. Version 2 is streamlined and risk-proportionate: it reduces unnecessary fields and guidance text, focuses on information needed for ethical use/reuse and standards compliance, and offers different documentation “levels” aligned to low/medium/high risk and intended real-world impact. For projects used only for education or exploratory research (with no intent to publish, share, or support decisions), the documentation tools may not be required.
 
 All the tools work together, and each serves a distinct purpose:
@@ -41,4 +44,4 @@ A glossary defining key terms is provided, alongside concise primers on:
 
 Licensing and attribution
 
-All four tools, as well as the primers and glossary, are licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0). More information: https://creativecommons.org/licenses/by-sa/4.0/
+All tools, as well as the primers and glossary, are licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0). More information: https://creativecommons.org/licenses/by-sa/4.0/
